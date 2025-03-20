@@ -66,11 +66,11 @@ For any questions, refer to the provided documentation or contact the project au
 
 7. Additional Resources
 
-Docker Official Documentation
+[Docker Official Documentation](https://docs.docker.com/)
 
-C++ Multithreading (std::thread)
+[C++ Multithreading (std::thread)](https://www.geeksforgeeks.org/multithreading-in-cpp/)
 
-Segregation of Duties (SoD) Concept
+[Segregation of Duties (SoD) Concept](https://pathlock.com/learn/separation-of-duties-in-your-organization/#:~:text=challenge%20for%20businesses.-,What%20is%20Separation%20of%20Duties%20(SoD)%3F,or%20can%20impact%20financial%20reporting.)
 
 
 
