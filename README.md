@@ -21,7 +21,7 @@ Dockerized Execution: The solution is containerized to ensure portability across
 
 3.1 Prerequisites
 
-Docker (Install from Docker Official Site)
+Docker [Install from Docker Official Site](https://docs.docker.com/engine/install/)
 
 Excel Data Files (Provided by the competition organizers)
 
