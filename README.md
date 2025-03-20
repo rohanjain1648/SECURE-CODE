@@ -33,35 +33,8 @@ Run the following command in the project root directory:
 
 Execute the program by mounting the test dataset:
 
-3.4 Expected Output
 
-The tool generates a CSV file (results.csv********************) listing all SoD conflicts with the following columns:
-
-SoD Rule Name
-
-User Name
-
-Role (Leg 1)
-
-Access Point (Leg 1)
-
-Conflicting Role (Leg 2)
-
-Type of Conflict
-
-Create & Approve Payables
-
-John Doe
-
-Accounts Payable Specialist
-
-Approve Payables
-
-Payment Approval Duty
-
-High Risk
-
-3.5 Cleanup (Optional)
+3.4 Cleanup (Optional)
 
 To remove the Docker container after execution:
 
